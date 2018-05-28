@@ -11,7 +11,7 @@ Informaciones básicas:
 
 | Programa | Fecha |
 | --- | --- | --- | --- |
-| Ignis |  |
-| JMJ | 22 al 29 de Enero |
+| Ignis — Encuentro de la JM Internacional |  |
+| JMJ — Encuentro con el Papa Francisco | 22 al 29 de Enero |
 | Días de paseo en Costa Rica | 29 al 2 de Febrero |
 
