@@ -2,19 +2,7 @@
 description: Cenas
 ---
 
-# Material
+# Bienvenido
 
-## Coisas
+Bienvenido a la página auxiliar de la Juventud Masculina de Schoenstatt de Campanario
 
-| Um | Dois |
-| --- | --- | --- |
-| Mais | Coisas |
-|  | Cenas |
-
-Mais cenas importantes
-
-Pois
-
-Há muito mais coisas que se poderiam fazer!
-
-**Super!**
