@@ -2,4 +2,6 @@
 
 * [Bienvenido](README.md)
 * Cruzados
+* Pioneros
+* JMJ Panamá 2019
 
