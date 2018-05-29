@@ -2,7 +2,7 @@
 
 * [Bienvenido](README.md)
 * [Cruzados](cruzados/README.md)
-  * Campanario
+  * [Campanario](cruzados/campanario.md)
   * Colina
 * Pioneros
 * [JMJ Panamá 2019](jmj-panama-2019.md)
