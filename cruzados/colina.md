@@ -1,12 +1,8 @@
----
-description: Santuario Valle Hermoso del Niño Jesús
----
-
 # Colina
 
 ### Reuniones
 
-* Todos los martes de 18h a 19h
+* Todos los martes de 18h a 19h en el Santuario de Colina
 
 ### Contacto
 

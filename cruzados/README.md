@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/bandeira-cruzados.png)
 
-### Participantes:
+## Participantes:
 
 * Varones de 4º a 7º Básico
 
