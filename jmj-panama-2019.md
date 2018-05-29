@@ -13,7 +13,7 @@ description: ¡En actualización!
 
 **Nota:** Cada uno debe comprar el pasaje por si mismo \(pronto habrá algunas indicaciones prácticas en ese sentido\)
 
-| Programa | Fecha |
+| **Programa** | **Fecha** |
 | --- | --- |
 | Ignis — Encuentro de la JM Internacional | 18 al 21 de Enero |
 | JMJ — Encuentro con el Papa Francisco | 22 al 29 de Enero |
