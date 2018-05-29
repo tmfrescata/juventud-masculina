@@ -6,7 +6,7 @@ description: ¡En actualización!
 
 ![](.gitbook/assets/logo_panama2019.png)
 
-### Informaciones básicas:
+## Informaciones básicas:
 
 * Fecha: 17 de Enero al 3 de Febrero
 * Precio: 1800 USD aproximadamente todo incluído
