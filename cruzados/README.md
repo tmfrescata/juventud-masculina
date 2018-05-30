@@ -1,6 +1,6 @@
 # Cruzados
 
-![](../.gitbook/assets/bandeira-cruzados.png)
+![](../.gitbook/assets/bandera-cruzados%20%281%29.png)
 
 ## Participantes:
 
