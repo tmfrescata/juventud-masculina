@@ -6,4 +6,5 @@
   * [Colina](cruzados/colina.md)
 * Pioneros
 * [JMJ Panamá 2019](jmj-panama-2019.md)
+* [Peregrinación de Invierno](peregrinacion-de-invierno.md)
 
