@@ -4,7 +4,7 @@ description: ¡Más informaciones pronto!
 
 # Peregrinación de Invierno
 
-![](.gitbook/assets/santuarios.png)
+![](../.gitbook/assets/santuarios.png)
 
 ### Lugar
 
