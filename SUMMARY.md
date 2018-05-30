@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenido](README.md)
+* [Bienvenidos](README.md)
 * [Cruzados](cruzados/README.md)
   * [Campanario](cruzados/campanario.md)
   * [Colina](cruzados/colina.md)
