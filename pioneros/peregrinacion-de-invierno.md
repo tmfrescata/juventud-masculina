@@ -1,7 +1,3 @@
----
-description: ¡Más informaciones pronto!
----
-
 # Peregrinación de Invierno
 
 ![](../.gitbook/assets/santuarios.png)

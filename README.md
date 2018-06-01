@@ -1,13 +1,8 @@
----
-description: Página auxiliar de la Juventud Masculina de Schoenstatt de Campanario
----
-
 # Bienvenidos
 
 ### Ubicación
 
-[Casa de las 3 Campanas en Google Maps](https://goo.gl/maps/2u7z2xVX94N2)  
-Campanario 341, Las Condes
+* [Casa de las 3 Campanas en Google Maps](https://goo.gl/maps/2u7z2xVX94N2) Campanario 341, Las Condes
 
 ### Email de contacto
 
