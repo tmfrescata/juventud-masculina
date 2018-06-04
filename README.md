@@ -12,5 +12,5 @@
 
 * Padre Tiago Frescata \(cel. 9 3203 6374\)
 
-{% page-ref page="./" %}
+
 
