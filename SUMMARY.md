@@ -2,7 +2,7 @@
 
 * [Bienvenidos](README.md)
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
-* [Canales de noticias](canales-de-noticias/README.md)
+* [Subscribir Noticias](canales-de-noticias/README.md)
   * [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
 * [Cruzados](cruzados/README.md)
   * [Campanario](cruzados/campanario.md)
