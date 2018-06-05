@@ -39,8 +39,8 @@ Padre Tiago
 * [Noticias de los Cruzados de Colina](https://noticias.jmschoenstatt.cl/tag/cruzados-colina/)
 * [Página Web de los Cruzados de Colina](https://campanario.jmschoenstatt.cl/cruzados/colina)
 
-**Santuario de Colina**
+**Santuario de Colina - Valle Hermoso**
 
-* Página Web
-* Contacto
+* [Página Web](http://santuariovallehermoso.cl/site/)
+* _Contacto:_ Paula Castelblanco \(+56 9 8804 6696\) 
 
