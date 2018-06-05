@@ -17,7 +17,7 @@ Los Cruzados son el grupo más joven de la Juventud Masculina del Movimiento Apo
 
 En concreto, los Cruzados:
 
-* Tienen reuniones semanales \(de 18h a 19h en el Santuario de Colina\)
+* Tienen **reuniones semanales todos los martes de 18h a 19h** en el Santuario de Colina. Hay reuniones durante el período escolar \(no en vacaciones\). No se cancelan las reuniones por motivo de lluvia. Excepciones a esta regla serán debidamente comunicadas.
 * Además, **en el Verano las actividades culminan con el Campamento \(fecha por confirmar\).**
 
 El grupo de los Cruzados está inserto en la Familia de Schoenstatt, compuesta por todas las personas que participan en grupos del Movimiento \(chicas, chicos, parejas, madres, hombres, mujeres consagradas y sacerdotes\) y abierta también a todas las personas y familias que se sienten espiritualmente ligadas al Santuario de Nuestra Señora de Schoenstatt. Como Familia de Schoenstatt, realizamos actividades a lo largo del año abiertas a todas las familias que deseen participar. ¡Están desde ya cordialmente invitados!
