@@ -4,7 +4,7 @@ description: Información general para los papás de Cruzados de Colina
 
 # Carta a los papás
 
-**Movimiento Apostólico de Schoenstatt**  
+**Movimiento Apostólico de Schoenstatt — Cruzados**  
 _+ Bajo la protección de María, ¡Todo para todos! +_
 
 Santiago, 2 de Junio del 2018
@@ -27,9 +27,8 @@ Con amistad rezo por sus familia e intenciones,
 
 Padre Tiago
 
--------
-
 **Contactos:**
 
 * Padre Tiago Frescata \(+56 9 3203 6374\)
 * Cristián Sánchez \(+ 56 9 8438 8293\)
+
