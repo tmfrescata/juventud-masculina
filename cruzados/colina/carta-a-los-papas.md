@@ -27,7 +27,7 @@ Con amistad rezo por sus familia e intenciones,
 
 Padre Tiago
 
-------
+***
 
 **Contactos:**
 
