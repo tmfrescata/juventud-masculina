@@ -11,7 +11,7 @@ description: ¡En actualización!
 * Fecha: 17 de Enero al 3 de Febrero
 * Precio: 1600 USD aproximadamente todo incluído
   * 900 USD = Viaje
-  * 700 USD = Ignis + JMJ + Paseo
+  * 850 USD = Ignis + JMJ + Paseo
 
 **Nota:** Cada uno debe comprar el pasaje por si mismo \(pronto habrá algunas indicaciones prácticas en ese sentido\)
 
