@@ -3,6 +3,7 @@
 * [Bienvenidos](README.md)
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
 * [Subscribir Noticias](canales-de-noticias/README.md)
+  * [Noticias JM](https://landing.mailerlite.com/webforms/landing/i5x2f5)
   * [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
 * [Cruzados](cruzados/README.md)
   * [Campanario](cruzados/campanario.md)
