@@ -11,7 +11,7 @@ description: ¡En actualización!
 * **Fecha:** 17 de Enero al 3 de Febrero
 * **Precio:** 1750 USD aproximadamente todo incluído
   * 700-900 USD aproximadamente = Viaje
-	* **Nota:** Cada uno debe comprar el pasaje por si mismo \(pronto habrá algunas indicaciones prácticas en ese sentido\)
+    * **Nota:** Cada uno debe comprar el pasaje por si mismo \(pronto habrá indicaciones prácticas en ese sentido\)
   * 850 USD = Ignis + JMJ + Paseo
 
 | **Programa** | **Fecha** |
@@ -20,7 +20,7 @@ description: ¡En actualización!
 | JMJ — Encuentro con el Papa Francisco | 21 al 29 de Enero |
 | Días de paseo en Costa Rica | 30 al 2 de Febrero |
 
-#### Contacto para más informaciones:
+### Contacto para más informaciones:
 
 * Padre Tiago Frescata
 * _Celular:_ +56 9 3203 6374
