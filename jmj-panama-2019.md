@@ -16,9 +16,11 @@ description: ¡En actualización!
 
 | **Programa** | **Fecha** |
 | --- | --- |
+| Viaje de ida — Santiago - San José, Costa Rica | 15 al 16 de Enero |
 | Ignis — Encuentro de la JM Internacional | 17 al 20 de Enero |
 | JMJ — Encuentro con el Papa Francisco | 21 al 27 de Enero |
-| Días de paseo en Costa Rica | 28 al 2 de Febrero |
+| Días de paseo en Costa Rica | 28 al 1 de Febrero |
+| Viaje de regreso — San José, Costa Rica - Santiago | 2 al 3 de Febrero |
 
 ### Inscripción
 
