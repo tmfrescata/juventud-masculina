@@ -10,6 +10,7 @@
   * [Colina](cruzados/colina/README.md)
     * [Carta a los papás](cruzados/colina/carta-a-los-papas.md)
 * [Pioneros](pioneros/README.md)
-  * [Peregrinación de Invierno](pioneros/peregrinacion-de-invierno.md)
+  * [Peregrinación de Invierno](pioneros/peregrinacion-de-invierno/README.md)
+    * [Ficha de inscripción PDF](http://pentecostes.info/peregrinacion_pioneros_2018-07.pdf)
 * [JMJ Panamá 2019](jmj-panama-2019.md)
 
