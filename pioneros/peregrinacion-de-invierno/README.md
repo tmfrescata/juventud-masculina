@@ -9,11 +9,11 @@
 
 ### Informaciones
 
-* **Salida:** Viernes 13 a las 18h en el Metro los Dominicos
-* **Regreso:** Domingo 15 a las 20h en el Metro los Dominicos
+* **Salida:** Viernes 13 a las 18h en el Metro Los Dominicos
+* **Regreso:** Domingo 15 a las 20h en el Metro Los Dominicos
 * **Precio:** $ 10.000 Peregrinación + $ 10.000 Transporte desde Santiago
   * Nadie dejará de participar nunca por motivos económicos!!! Por favor, hablar con el Padre Tiago
-* **¡Importante!** Llevar cocaví para la cena del viernes
+* **¡Importante!** Llevar colación para la cena del viernes
 
 ### Inscripción
 
