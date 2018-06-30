@@ -6,6 +6,10 @@
   * [Noticias JM](https://landing.mailerlite.com/webforms/landing/i5x2f5)
   * [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
   * [Cruzados de Campanario](https://landing.mailerlite.com/webforms/landing/c4p0i3)
+* [Casa 3 Campanas](3-campanas/README.md)
+  * [Cuotas anuales](3-campanas/cuotas-anuales.md)
+  * [Pagos](3-campanas/cuenta-corriente.md)
+* [JMJ Panamá 2019](jmj-panama-2019.md)
 * [Cruzados](cruzados/README.md)
   * [Campanario](cruzados/campanario.md)
   * [Colina](cruzados/colina/README.md)
@@ -13,5 +17,4 @@
 * [Pioneros](pioneros/README.md)
   * [Peregrinación de Invierno](pioneros/peregrinacion-de-invierno/README.md)
     * [Ficha de inscripción PDF](http://pentecostes.info/peregrinacion_pioneros_2018-07.pdf)
-* [JMJ Panamá 2019](jmj-panama-2019.md)
 

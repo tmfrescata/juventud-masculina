@@ -26,9 +26,6 @@
 * **Devoluciones:** Una vez cerradas las inscripciones, no se hará devolución del monto pagado a no ser por una causa grave
 * **Email:** 3campanas@padres-schoenstatt.cl
 * **WhatsApp:** +56 9 3203 6374 \(Padre Tiago\)
-* **Cuenta Corriente:**
-  * Banco Scotiabank
-  * Titular: Fundación Movimiento de Schoenstatt
-  * Número: 974833387
-  * RUT: 65.160.991-7
+
+
 
