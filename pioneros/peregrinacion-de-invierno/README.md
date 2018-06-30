@@ -22,8 +22,8 @@
 ### Atención
 
 * **Devoluciones:** Una vez cerradas las inscripciones, no se hará devolución del monto pagado a no ser por una causa grave
-* **Email:** 3campanas@padres-schoenstatt.cl
-* **WhatsApp:** +56 9 3203 6374 \(Padre Tiago\)
+
+{% page-ref page="../../casa-3-campanas/contactos.md" %}
 
 {% page-ref page="../../casa-3-campanas/pagos.md" %}
 

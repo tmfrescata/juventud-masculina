@@ -7,6 +7,7 @@
   * [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
   * [Cruzados de Campanario](https://landing.mailerlite.com/webforms/landing/c4p0i3)
 * [Casa 3 Campanas](casa-3-campanas/README.md)
+  * [Contactos](casa-3-campanas/contactos.md)
   * [Cuotas anuales](casa-3-campanas/cuotas-anuales.md)
   * [Pagos](casa-3-campanas/pagos.md)
 * [JMJ Panamá 2019](jmj-panama-2019.md)
