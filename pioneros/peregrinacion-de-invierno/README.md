@@ -1,7 +1,5 @@
 # Peregrinación de Invierno
 
-![](../../.gitbook/assets/santuarios.png)
-
 ## Peregrinación Quillota - Los Pinos
 
 * Entre el Santuario de Quillota y el Santuario de Los Pinos \(Reñaca\)
