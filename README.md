@@ -6,7 +6,7 @@
 
 ### Email de contacto
 
-* 3campanas@padres-schoenstatt.org
+* 3campanas@padres-schoenstatt.cl
 
 ### Teléfono
 
