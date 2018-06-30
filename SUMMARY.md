@@ -8,7 +8,7 @@
   * [Cruzados de Campanario](https://landing.mailerlite.com/webforms/landing/c4p0i3)
 * [Casa 3 Campanas](3-campanas/README.md)
   * [Cuotas anuales](3-campanas/cuotas-anuales.md)
-  * [Pagos](3-campanas/cuenta-corriente.md)
+  * [Pagos](3-campanas/pagos.md)
 * [JMJ Panamá 2019](jmj-panama-2019.md)
 * [Cruzados](cruzados/README.md)
   * [Campanario](cruzados/campanario.md)

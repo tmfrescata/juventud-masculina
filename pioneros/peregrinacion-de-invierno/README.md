@@ -27,5 +27,5 @@
 * **Email:** 3campanas@padres-schoenstatt.cl
 * **WhatsApp:** +56 9 3203 6374 \(Padre Tiago\)
 
-
+{% page-ref page="../../3-campanas/pagos.md" %}
 
