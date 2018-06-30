@@ -1,5 +1,5 @@
 ---
-description: Recibir por email las Noticias de la Juventud Masculina
+description: Subscribir canales de noticias
 ---
 
 # Subscribir Noticias
