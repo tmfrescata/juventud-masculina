@@ -4,8 +4,6 @@ description: Peregrinación
 
 # Material a llevar
 
-
-
 ### Lista de Material para la peregrinación
 
 **Muy importante**
