@@ -4,6 +4,8 @@ description: Peregrinación
 
 # Material a llevar
 
+![](../../.gitbook/assets/josiah-weiss-435592-unsplash.jpg)
+
 ### Lista de Material para la peregrinación
 
 **Muy importante**
