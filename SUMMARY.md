@@ -17,5 +17,6 @@
     * [Carta a los papás](cruzados/colina/carta-a-los-papas.md)
 * [Pioneros](pioneros/README.md)
   * [Peregrinación de Invierno](pioneros/peregrinacion-de-invierno/README.md)
+    * [Material a llevar](pioneros/peregrinacion-de-invierno/material-para-la-peregrinacion.md)
     * [Ficha de inscripción PDF](http://pentecostes.info/peregrinacion_pioneros_2018-07.pdf)
 

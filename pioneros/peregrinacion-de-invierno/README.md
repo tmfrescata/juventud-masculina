@@ -13,6 +13,8 @@
   * Nadie dejará de participar nunca por motivos económicos!!! Por favor, hablar con el Padre Tiago
 * **¡Importante!** Llevar colación para la cena del viernes
 
+{% page-ref page="material-para-la-peregrinacion.md" %}
+
 ### Inscripción
 
 1. **Hasta el miercoles 11 de Julio: Rellene** [**la ficha de inscripción**](http://pentecostes.info/peregrinacion_pioneros_2018-07.pdf) **y firme el respectivo consentimiento.** Envíela digitalizada por email \(donde conste visiblemente la firma del Apoderado\) o por WhatsApp al Padre Tiago \(a quién también podrán entregar en mano la impresión en papel\)
