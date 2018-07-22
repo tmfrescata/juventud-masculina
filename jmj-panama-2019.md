@@ -6,7 +6,7 @@ description: ¡En actualización!
 
 ![](.gitbook/assets/logo_panama2019.png)
 
-## Informaciones básicas:
+## Informaciones básicas
 
 * **Fecha:** 15 de Enero al 3 de Febrero
 * **Precio:** 1750 USD aproximadamente todo incluído
@@ -39,7 +39,7 @@ Este pasaje fue comprado en [despegar.cl](https://www.despegar.cl/vuelos/) a 29 
 
 ![](.gitbook/assets/regreso.jpg)
 
-### Contacto para más informaciones:
+### Contacto para más informaciones
 
 * Padre Tiago Frescata
 * _Celular:_ +56 9 3203 6374
