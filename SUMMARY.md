@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Bienvenidos](README.md)
-* [Formación](https://formacion.jmschoenstatt.cl/)
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
+* [Formación](https://formacion.jmschoenstatt.cl/)
 
 ## Subscribir Email Noticias
 
