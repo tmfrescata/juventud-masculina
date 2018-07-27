@@ -16,14 +16,14 @@
 
 ## Cruzados
 
-* [Información](cruzados/informacion.md)
+* [Información](cruzados/info.md)
 * [Campanario](cruzados/campanario.md)
 * [Colina](cruzados/colina/README.md)
   * [Carta a los papás](cruzados/colina/carta-a-los-papas.md)
 
 ## Pioneros
 
-* [Información](pioneros/informacion.md)
+* [Información](pioneros/info.md)
 
 ## Casa 3 Campanas
 
