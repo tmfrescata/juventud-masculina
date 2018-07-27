@@ -4,7 +4,7 @@ description: 8º Básico a 4º Medio
 
 # Pioneros
 
-![](.gitbook/assets/bandera-pioneros.png)
+![](../.gitbook/assets/bandera-pioneros.png)
 
 ## Participantes
 

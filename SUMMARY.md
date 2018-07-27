@@ -19,6 +19,5 @@
 
 ## PIONEROS
 
-* [Pioneros](cenas/pioneros.md)
-* [Qué son?](cenas/que-son.md)
+* [Pioneros](pioneros/pioneros.md)
 
