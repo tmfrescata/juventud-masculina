@@ -15,15 +15,6 @@
 
 * [JMJ Panamá 2019](actividades/jmj-panama-2019.md)
 
-## Casa 3 Campanas
-
-* [Ubicación](casa-3-campanas/casa-3-campanas.md)
-* [Contactos](casa-3-campanas/contactos.md)
-* [Cuotas anuales](casa-3-campanas/cuotas-anuales.md)
-* [Pagos](casa-3-campanas/pagos.md)
-* [Renovación de la Casa](casa-3-campanas/renovacion-de-la-casa/README.md)
-  * [Tablero de ideas](https://trello.com/b/mGBuSMwB/casa-3-campanas-renovación)
-
 ## Cruzados
 
 * [Información](cruzados/cruzados.md)
@@ -34,6 +25,16 @@
 ## Pioneros
 
 * [Información](pioneros/pioneros.md)
+
+## Casa 3 Campanas
+
+* [Ubicación](casa-3-campanas/casa-3-campanas.md)
+* [Contactos](casa-3-campanas/contactos.md)
+* [Cuotas anuales](casa-3-campanas/cuotas-anuales.md)
+* [Pagos](casa-3-campanas/pagos.md)
+* [Renovación de la Casa](casa-3-campanas/renovacion-de-la-casa/README.md)
+  * [Tablero de ideas](https://trello.com/b/mGBuSMwB/casa-3-campanas-renovación)
+
 
 
 
