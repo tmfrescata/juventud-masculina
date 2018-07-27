@@ -6,6 +6,7 @@
   * [Noticias JM](https://landing.mailerlite.com/webforms/landing/i5x2f5)
   * [Cruzados de Campanario](https://landing.mailerlite.com/webforms/landing/s1e3a6)
   * [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
+* [Formación](https://formacion.jmschoenstatt.cl/)
 * [Casa 3 Campanas](casa-3-campanas/README.md)
   * [Contactos](casa-3-campanas/contactos.md)
   * [Cuotas anuales](casa-3-campanas/cuotas-anuales.md)
