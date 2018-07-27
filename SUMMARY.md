@@ -16,9 +16,9 @@
   * [Campanario](cruzados/campanario.md)
   * [Colina](cruzados/colina/README.md)
     * [Carta a los papás](cruzados/colina/carta-a-los-papas.md)
-* [Pioneros](pioneros.md)
 
 ## PIONEROS
 
+* [Pioneros](cenas/pioneros.md)
 * [Qué son?](cenas/que-son.md)
 
