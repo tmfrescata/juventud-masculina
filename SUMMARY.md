@@ -6,10 +6,12 @@
 ## Noticias
 
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
-* [Subscribir Noticias](noticias/subscribir-noticias/README.md)
-  * [Noticias JM](https://landing.mailerlite.com/webforms/landing/i5x2f5)
-  * [Cruzados de Campanario](https://landing.mailerlite.com/webforms/landing/s1e3a6)
-  * [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
+
+## Subscribir Noticias
+
+* [Noticias JM](https://landing.mailerlite.com/webforms/landing/i5x2f5)
+* [Cruzados de Campanario](https://landing.mailerlite.com/webforms/landing/s1e3a6)
+* [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
 
 ## Actividades
 
