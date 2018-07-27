@@ -2,9 +2,6 @@
 
 * [Bienvenidos](README.md)
 * [Formación](https://formacion.jmschoenstatt.cl/)
-
-## Noticias
-
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
 
 ## Subscribir Noticias
