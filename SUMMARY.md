@@ -1,12 +1,15 @@
 # Table of contents
 
 * [Bienvenidos](README.md)
+* [Formación](https://formacion.jmschoenstatt.cl/)
+
+## Noticias
+
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
 * [Subscribir Noticias](subscribir-noticias/README.md)
   * [Noticias JM](https://landing.mailerlite.com/webforms/landing/i5x2f5)
   * [Cruzados de Campanario](https://landing.mailerlite.com/webforms/landing/s1e3a6)
   * [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
-* [Formación](https://formacion.jmschoenstatt.cl/)
 
 ## Actividades
 
@@ -31,4 +34,7 @@
 ## Pioneros
 
 * [Información](pioneros/pioneros.md)
+
+
+
 
