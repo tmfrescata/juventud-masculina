@@ -6,7 +6,7 @@
 ## Noticias
 
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
-* [Subscribir Noticias](subscribir-noticias/README.md)
+* [Subscribir Noticias](noticias/subscribir-noticias/README.md)
   * [Noticias JM](https://landing.mailerlite.com/webforms/landing/i5x2f5)
   * [Cruzados de Campanario](https://landing.mailerlite.com/webforms/landing/s1e3a6)
   * [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
@@ -34,8 +34,4 @@
 * [Pagos](casa-3-campanas/pagos.md)
 * [Renovación de la Casa](casa-3-campanas/renovacion-de-la-casa/README.md)
   * [Tablero de ideas](https://trello.com/b/mGBuSMwB/casa-3-campanas-renovación)
-
-
-
-
 
