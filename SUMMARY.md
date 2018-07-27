@@ -8,31 +8,27 @@
   * [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
 * [Formación](https://formacion.jmschoenstatt.cl/)
 
-
 ## Actividades
 
-* [JMJ Panamá 2019](jmj-panama-2019.md)
+* [JMJ Panamá 2019](actividades/jmj-panama-2019.md)
 
 ## Casa 3 Campanas
 
-* [Ubicación](casa-3-campanas/README.md)
+* [Ubicación](casa-3-campanas/casa-3-campanas.md)
 * [Contactos](casa-3-campanas/contactos.md)
 * [Cuotas anuales](casa-3-campanas/cuotas-anuales.md)
 * [Pagos](casa-3-campanas/pagos.md)
-* [Renovación](https://trello.com/b/mGBuSMwB/casa-3-campanas-renovaci%C3%B3n)
+* [Renovación de la Casa](casa-3-campanas/renovacion-de-la-casa/README.md)
+  * [Tablero de ideas](https://trello.com/b/mGBuSMwB/casa-3-campanas-renovación)
 
 ## Cruzados
 
-* [Información](cruzados/README.md)
+* [Información](cruzados/cruzados.md)
 * [Campanario](cruzados/campanario.md)
 * [Colina](cruzados/colina/README.md)
-    * [Carta a los papás](cruzados/colina/carta-a-los-papas.md)
-
+  * [Carta a los papás](cruzados/colina/carta-a-los-papas.md)
 
 ## Pioneros
 
 * [Información](pioneros/pioneros.md)
-
-
-
 

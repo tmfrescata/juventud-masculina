@@ -4,7 +4,7 @@ description: ¡En actualización!
 
 # JMJ Panamá 2019
 
-![](.gitbook/assets/logo_panama2019.png)
+![](../.gitbook/assets/logo_panama2019.png)
 
 ## Informaciones básicas
 
@@ -33,11 +33,11 @@ Este pasaje fue comprado en [despegar.cl](https://www.despegar.cl/vuelos/) a 29 
 
 #### Ida
 
-![](.gitbook/assets/ida.jpg)
+![](../.gitbook/assets/ida.jpg)
 
 #### Regreso
 
-![](.gitbook/assets/regreso.jpg)
+![](../.gitbook/assets/regreso.jpg)
 
 ### Contacto para más informaciones
 
