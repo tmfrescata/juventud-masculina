@@ -17,8 +17,8 @@
 ## Cruzados
 
 * [Información](cruzados/info.md)
-* [Ficha Inscripción Nuevos](http://pentecostes.info/inscripcion_cruzados_nuevos.pdf)
-* [Campanario](cruzados/campanario.md)
+* [Campanario](cruzados/campanario/README.md)
+  * [Ficha Inscripción Nuevos](http://pentecostes.info/inscripcion_cruzados_nuevos.pdf)
 * [Colina](cruzados/colina/README.md)
   * [Carta a los papás](cruzados/colina/carta-a-los-papas.md)
 
