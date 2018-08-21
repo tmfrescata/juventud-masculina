@@ -12,7 +12,7 @@
 
 ## Actividades
 
-* [JMJ Panamá 2019](actividades/jmj-panama-2019.md)
+* [JMJ Panamá 2019](https://jmj2019.jmschoenstatt.cl/jmj-ignis/)
 
 ## Cruzados
 
