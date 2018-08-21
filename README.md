@@ -1,5 +1,9 @@
 # Bienvenidos
 
+## Contactos
+
+{% page-ref page="casa-3-campanas/contactos.md" %}
+
 ## JMJ Panamá 2019
 
 ## Renovación de la Casa de las 3 Campanas
