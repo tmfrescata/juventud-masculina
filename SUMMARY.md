@@ -13,6 +13,7 @@
 ## Actividades
 
 * [JMJ Panamá 2019](https://jmj2019.jmschoenstatt.cl/jmj-ignis/)
+* [Peregrinación a Auco — Santa Teresita de los Andes](actividades/peregrinacion-auco.md)
 
 ## Cruzados
 
