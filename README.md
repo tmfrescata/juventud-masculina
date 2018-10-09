@@ -2,7 +2,7 @@
 
 ## Peregrinación a Auco – Santa Teresita de los Andes
 
-
+{% page-ref page="actividades/peregrinacion-auco.md" %}
 
 ## Contactos
 
@@ -18,3 +18,4 @@
 
 * Lo que escribas aparecerá automaticamente en el Tablero en forma anonima
 * Puedes identificarte si quieres
+
