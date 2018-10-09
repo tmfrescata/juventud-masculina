@@ -2,6 +2,7 @@
 
 * Sábado 20 de Octubre de 2018
 * Pueden participar jóvenes varones a partir de 7º Básico
+* Inscripciones hasta el **martes 16 de Octubre**
 
 ### Informaciones
 
