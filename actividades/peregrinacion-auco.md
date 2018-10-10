@@ -3,7 +3,7 @@
 * Sábado 20 de Octubre de 2018
 * Pueden participar jóvenes varones a partir de 7º Básico
 * Inscripciones hasta el **martes 16 de Octubre**
-* Las personas inscritas que necesiten, por conveniencia, pueden alojar en la Casa de Las Tres Campanas en la noche anterior
+* Por conveniencia, las personas inscritas que lo necesiten pueden alojar en la Casa de Las Tres Campanas en la noche anterior
 
 ## Informaciones
 
