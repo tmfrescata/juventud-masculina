@@ -13,9 +13,7 @@
 ## Actividades
 
 * [JMJ Panamá 2019](https://jmj2019.jmschoenstatt.cl/jmj-ignis/)
-* [Peregrinación a Auco — Santa Teresita de los Andes](actividades/peregrinacion-auco/README.md)
-  * [Ficha de inscripción](http://pentecostes.info/peregrinacion-auco-2018.pdf)
-  * [Ficha de inscripción &gt;18](http://pentecostes.info/peregrinacion-auco-2018-18.pdf)
+
 
 ## Cruzados
 
@@ -37,4 +35,3 @@
 * [Pagos](casa-3-campanas/pagos.md)
 * [Renovación de la Casa](casa-3-campanas/renovacion-de-la-casa/README.md)
   * [Tablero de ideas](https://trello.com/b/vry1T8Ty)
-
