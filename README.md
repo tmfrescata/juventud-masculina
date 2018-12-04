@@ -4,6 +4,8 @@
 
 {% page-ref page="casa-3-campanas/contactos.md" %}
 
+{% page-ref page="casa-3-campanas/pagos.md" %}
+
 ## Renovación de la Casa de las 3 Campanas
 
 {% page-ref page="casa-3-campanas/renovacion-de-la-casa/" %}
