@@ -1,4 +1,4 @@
-# Campamento de Pioneros 2019 – Malcho
+# Campamento Malcho 2019
 
 * Miércoles 2 a Martes 8 de Enero de 2019
 * Inscripciones hasta el **viernes 21 de diciembre**
@@ -6,8 +6,8 @@
 ## Informaciones
 
 * **Salida:** 8:00 en la Casa de las Tres Campanas
-* **Llegada:** 20:00 aprox. a la Casa de las Tres Campanas (horario por confirmar)
-* **Precio:** $ 95.000 (Transporte desde Santiago $ 27.500)
+* **Llegada:** 20:00 aprox. a la Casa de las Tres Campanas \(horario por confirmar\)
+* **Precio:** $ 95.000 \(Transporte desde Santiago $ 27.500 incluído\)
   * Nadie dejará de participar nunca por motivos económicos!!! Por favor, hablar con el Padre Asesor
 * **¡Importante!** Llevar picnic para el almuerzo
 
@@ -20,3 +20,4 @@
 ## Atención
 
 * **Devoluciones:** Una vez cerradas las inscripciones, no se hará devolución del monto pagado a no ser por una causa grave
+

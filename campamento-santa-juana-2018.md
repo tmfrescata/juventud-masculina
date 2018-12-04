@@ -8,7 +8,7 @@
 
 * **Salida:** 8:00 en el Terminal de Buses de Alameda
 * **Llegada:** 20:00 aprox. al Terminal de Buses de Alameda \(horario por confirmar\)
-* **Precio:** $ 70.000 \(Transporte desde Santiago $ 20.000\)
+* **Precio:** $ 70.000 \(Transporte desde Santiago $ 20.000 incluído\)
   * Nadie dejará de participar nunca por motivos económicos!!! Por favor, hablar con el Padre Asesor
 * **¡Importante!** Llevar picnic para el almuerzo
 
