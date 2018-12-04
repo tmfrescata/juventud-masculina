@@ -3,6 +3,7 @@
 * [Bienvenidos](README.md)
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
 * [Formación](https://formacion.jmschoenstatt.cl/)
+* [Campamento Santa Juana 2018](campamento-santa-juana-2018.md)
 
 ## Subscribir Email Noticias
 
@@ -13,7 +14,6 @@
 ## Actividades
 
 * [JMJ Panamá 2019](https://jmj2019.jmschoenstatt.cl/jmj-ignis/)
-
 
 ## Cruzados
 
@@ -35,3 +35,4 @@
 * [Pagos](casa-3-campanas/pagos.md)
 * [Renovación de la Casa](casa-3-campanas/renovacion-de-la-casa/README.md)
   * [Tablero de ideas](https://trello.com/b/vry1T8Ty)
+
