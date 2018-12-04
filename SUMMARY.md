@@ -4,6 +4,7 @@
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
 * [Formación](https://formacion.jmschoenstatt.cl/)
 * [Campamento Santa Juana 2018](campamento-santa-juana-2018.md)
+* [Campamento Malcho 2019](campamento-malcho-2019.md)
 
 ## Subscribir Email Noticias
 

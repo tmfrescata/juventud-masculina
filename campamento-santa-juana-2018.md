@@ -1,4 +1,4 @@
-# Campamento de Cruzados 2018 – Santa Juana
+# Campamento Santa Juana 2018
 
 * Lunes 17 a Viernes 21 de Diciembre de 2018
 * Solamente podrán participar los Cruzados que han tomado parte en las reuniones durante el año
@@ -7,8 +7,8 @@
 ## Informaciones
 
 * **Salida:** 8:00 en el Terminal de Buses de Alameda
-* **Llegada:** 20:00 aprox. al Terminal de Buses de Alameda (horario por confirmar)
-* **Precio:** $ 70.000 (Transporte desde Santiago $ 20.000)
+* **Llegada:** 20:00 aprox. al Terminal de Buses de Alameda \(horario por confirmar\)
+* **Precio:** $ 70.000 \(Transporte desde Santiago $ 20.000\)
   * Nadie dejará de participar nunca por motivos económicos!!! Por favor, hablar con el Padre Asesor
 * **¡Importante!** Llevar picnic para el almuerzo
 
@@ -21,3 +21,4 @@
 ## Atención
 
 * **Devoluciones:** Una vez cerradas las inscripciones, no se hará devolución del monto pagado a no ser por una causa grave
+
