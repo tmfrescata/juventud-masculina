@@ -7,7 +7,7 @@
 * Picnic para el almuerzo del viaje de ida
 * Jockey
 * Protector solar
-* Etapas de Cruzados
+* Etapas de Cruzados (los que tengan)
 
 ### Material de campamento
 
@@ -51,7 +51,6 @@
 
 ### Prohibido llevar \(serán guardados por los encargados del campamento\)
 
-* Celular 
+* Celular
 * Juegos electrónicos
 * Reproductor de música
-
