@@ -7,7 +7,7 @@
 * Picnic para el almuerzo del viaje de ida
 * Jockey
 * Protector solar
-* Etapas de Cruzados (los que tengan)
+* Etapas de Cruzados \(los que tengan\)
 
 ### Material de campamento
 
@@ -54,3 +54,4 @@
 * Celular
 * Juegos electrónicos
 * Reproductor de música
+

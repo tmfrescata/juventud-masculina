@@ -1,5 +1,9 @@
 # Campamento Malcho 2019
 
+{% page-ref page="casa-3-campanas/pagos.md" %}
+
+{% page-ref page="casa-3-campanas/contactos.md" %}
+
 * Miércoles 2 a Martes 8 de Enero de 2019
 * Inscripciones hasta el **viernes 21 de diciembre**
 
