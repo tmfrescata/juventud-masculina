@@ -4,7 +4,7 @@
 
 ### Importante
 
-* Carpa (si tienen)
+* Carpa \(si tienen\)
 * Picnic para el almuerzo del viaje de ida
 * Jockey
 * Protector solar
@@ -44,3 +44,4 @@
 ### Otros
 
 * Rosario \(si tienen\)
+
