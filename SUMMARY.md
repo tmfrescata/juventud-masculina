@@ -6,6 +6,7 @@
 * [Campamento Santa Juana 2018](campamento-santa-juana-2018/README.md)
   * [Lista de Material](campamento-santa-juana-2018/lista-de-material.md)
 * [Campamento Malcho 2019](campamento-malcho-2019.md)
+* [Lista de Material](lista-de-material.md)
 
 ## Subscribir Email Noticias
 
@@ -37,4 +38,3 @@
 * [Pagos](casa-3-campanas/pagos.md)
 * [Renovación de la Casa](casa-3-campanas/renovacion-de-la-casa/README.md)
   * [Tablero de ideas](https://trello.com/b/vry1T8Ty)
-
