@@ -3,10 +3,6 @@
 * [Bienvenidos](README.md)
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
 * [Formación](https://formacion.jmschoenstatt.cl/)
-* [Campamento Santa Juana 2018](campamento-santa-juana-2018/README.md)
-  * [Lista de Material](campamento-santa-juana-2018/lista-de-material.md)
-* [Campamento Malcho 2019](campamento-malcho-2019/README.md)
-  * [Lista de Material](campamento-malcho-2019/lista-de-material.md)
 
 ## Subscribir Email Noticias
 

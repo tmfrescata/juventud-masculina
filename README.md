@@ -8,10 +8,6 @@
 
 ## Campamentos
 
-{% page-ref page="campamento-santa-juana-2018/" %}
-
-{% page-ref page="campamento-malcho-2019/" %}
-
 ## Renovación de la Casa de las 3 Campanas
 
 {% page-ref page="casa-3-campanas/renovacion-de-la-casa/" %}
