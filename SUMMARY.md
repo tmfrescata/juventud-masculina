@@ -10,10 +10,6 @@
 * [Cruzados de Campanario](https://landing.mailerlite.com/webforms/landing/s1e3a6)
 * [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
 
-## Actividades
-
-* [JMJ Panamá 2019](https://jmj2019.jmschoenstatt.cl/jmj-ignis/)
-
 ## Cruzados
 
 * [Información](cruzados/info.md)
