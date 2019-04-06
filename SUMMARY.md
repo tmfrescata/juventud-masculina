@@ -10,6 +10,10 @@
 * [Cruzados de Campanario](https://landing.mailerlite.com/webforms/landing/s1e3a6)
 * [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
 
+## Actividades
+
+* [Retiro de Semana Santa](actividades/semanasanta.md)
+
 ## Cruzados
 
 * [Información](cruzados/info.md)
@@ -30,4 +34,3 @@
 * [Pagos](casa-3-campanas/pagos.md)
 * [Renovación de la Casa](casa-3-campanas/renovacion-de-la-casa/README.md)
   * [Tablero de ideas](https://trello.com/b/vry1T8Ty)
-
