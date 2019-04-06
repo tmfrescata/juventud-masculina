@@ -12,7 +12,7 @@
 
 ## Actividades
 
-* [Retiro de Semana Santa](actividades/semanasanta.md)
+* [Retiro de Semana Santa 2019](actividades/semanasanta.md)
 
 ## Cruzados
 
