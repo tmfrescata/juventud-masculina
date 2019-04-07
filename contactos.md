@@ -8,7 +8,7 @@
 
 * 3campanas@padres-schoenstatt.cl
 
-### Secretaría
+### Secretaría e Inscripciones
 
 #### Teléfono \(WhatsApp\)
 
