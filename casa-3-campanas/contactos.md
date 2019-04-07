@@ -10,7 +10,7 @@
 
 * María Francisca Bobenrieth \(cel. +56 9 9449 6997\)
 
-**Emails**
+**Email**
 
 * 3campanas@padres-schoenstatt.cl
 
