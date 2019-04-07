@@ -2,7 +2,7 @@
 
 ## Contactos
 
-{% page-ref page="casa-3-campanas/contactos.md" %}
+{% page-ref page="contactos.md" %}
 
 {% page-ref page="casa-3-campanas/pagos.md" %}
 
@@ -14,4 +14,3 @@
 
 * Lo que escribas aparecerá automaticamente en el Tablero en forma anonima
 * Puedes identificarte si quieres
-
