@@ -8,7 +8,9 @@
 
 * 3campanas@padres-schoenstatt.cl
 
-### Secretaría — Teléfono \(WhatsApp\)
+### Secretaría
+
+#### Teléfono \(WhatsApp\)
 
 * María Francisca Bobenrieth \(cel. +56 9 9449 6997\)
 
