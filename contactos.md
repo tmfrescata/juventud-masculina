@@ -10,7 +10,7 @@
 
 ### Secretaría e Inscripciones
 
-#### Teléfono \(WhatsApp\)
+**Teléfono \(WhatsApp\)**
 
 * María Francisca Bobenrieth \(cel. +56 9 9449 6997\)
 
