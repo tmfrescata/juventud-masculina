@@ -1,12 +1,13 @@
 ---
-description: 8º Básico a 4º Medio
+description: Pioneros
 ---
 
 # Información
 
+## Pioneros
+
 ![](../.gitbook/assets/bandera-pioneros.png)
 
-## Participantes
+### Participantes
 
 * Varones de 8º Básico a 4º Medio
-
