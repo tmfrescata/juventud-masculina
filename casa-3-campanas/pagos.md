@@ -8,7 +8,6 @@ Preferimos pagos por transferencia bancaria.
 
 * Banco Scotiabank
 * Cuenta Vista
-
 * Titular: Tiago Ribeiro Soubrinho
 * Número: 000974645114
 * RUT: 14.650.067-6
