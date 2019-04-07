@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Bienvenidos](README.md)
-* [Contactos](casa-3-campanas/contactos.md)
+* [Contactos](contactos.md)
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
 * [Formación](https://formacion.jmschoenstatt.cl/)
 
