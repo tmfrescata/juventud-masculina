@@ -4,7 +4,7 @@ Preferimos pagos por transferencia bancaria.
 
 **La siguiente Cuenta Corriente es una cuenta exclusivamente dedicada al uso institucional de la Juventud Masculina de Schoenstatt de Campanario.** Por motivos de orden burocrático está a nombre personal del Padre Tiago.
 
-### Cuenta Corriente
+## Cuenta Corriente
 
 * Banco Scotiabank
 * Cuenta Vista
@@ -12,10 +12,11 @@ Preferimos pagos por transferencia bancaria.
 * Número: 000974645114
 * RUT: 14.650.067-6
 
-### Comprobante
+## Comprobante
 
 Al enviar el comprobante de pago, hágalo como anexo desde su email \(y no directamente desde el banco\) indicando en el mismo email el nombre de la persona / asunto.
 
 _¡Note que los descriptivos enviados directamente por el banco nos obligan, en la mayoría de los casos, a hacer de detectives para llegar al nombre de la persona en causa!_
 
 ¡Gracias!
+

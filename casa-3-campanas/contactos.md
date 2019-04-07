@@ -1,10 +1,10 @@
 # Contactos
 
-### Asesor
+## Asesor
 
 * Padre Tiago Frescata \(cel. +56 9 3203 6374\)
 
-### Secretaría e Inscripciones
+## Secretaría e Inscripciones
 
 **Teléfono \(WhatsApp\)**
 
@@ -14,6 +14,7 @@
 
 * 3campanas@padres-schoenstatt.cl
 
-### Universitarios
+## Universitarios
 
-{% page-ref page="../../universitarios/info.md" %}
+{% page-ref page="../universitarios/info.md" %}
+
