@@ -26,6 +26,10 @@
 
 * [Información](pioneros/info.md)
 
+## Universitarios
+
+* [Información](universitarios/info.md)
+
 ## Casa 3 Campanas
 
 * [Ubicación](casa-3-campanas/casa-3-campanas.md)
