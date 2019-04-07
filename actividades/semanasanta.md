@@ -12,7 +12,7 @@
   * Los familiares están cordialmente invitados a participar en la Vigilia y comida posterior
 * **Precio:** $ 18.000
   * Nadie dejará de participar nunca por motivos económicos!!! Por favor, hablar con el Padre Asesor
-* **Transporte:** El que necesite transporte o acompañamiento para llegar al CMPJK (menores de edad) consulte al Consejo de los Universitarios o al Asesor de los Pioneros
+* **Transporte:** El que necesite transporte o acompañamiento para llegar al CMPJK (menores de edad) consulte al Consejo de los Universitarios o al Asesor
 
 {% page-ref page="../../universitarios/info.md" %}
 
