@@ -4,8 +4,6 @@ description: Pioneros
 
 # Información
 
-## Pioneros
-
 ![](../.gitbook/assets/bandera-pioneros.png)
 
 ### Participantes

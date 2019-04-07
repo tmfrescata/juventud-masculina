@@ -1,5 +1,5 @@
 ---
-description: 4º a 7º Básico
+description: Cruzados
 ---
 
 # Información
@@ -9,4 +9,3 @@ description: 4º a 7º Básico
 ## Participantes
 
 * Varones de 4º a 7º Básico
-
