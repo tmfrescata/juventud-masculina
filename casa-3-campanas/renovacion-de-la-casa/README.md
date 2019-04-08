@@ -4,4 +4,3 @@
 
 * Lo que escribas aparecerá automaticamente en el Tablero en forma anonima
 * Puedes identificarte si quieres
-
