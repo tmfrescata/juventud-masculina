@@ -20,7 +20,7 @@
 ## Inscripción
 
 1. **Hasta el domingo 14 de Abril:**
-   * [**Rellene la ficha de inscripción para menores de edad**](http://pentecostes.info/pioneros-retiross2019.pdf) **y firme el respectivo consentimiento.** Envíela digitalizada por email \(donde conste visiblemente la firma del Apoderado\) o por WhatsApp a M. Francisca Bobenrieth.
+   * [**Rellene la ficha de inscripción para menores de edad**](http://pentecostes.info/pioneros-retiross2019.pdf) **y firme el respectivo consentimiento.** Envíela digitalizada por email \(donde conste visiblemente la firma del Apoderado\) a M. Francisca Bobenrieth.
    * [**Rellene el formulario online para mayores de edad.**](https://forms.gle/LMj8WcTj11JGow4i7)
 2. **Efectue el pago del monto indicado por transferencia bancaria.** Debe enviar el comprobante de pago como anexo desde su email \(y no directamente desde el banco\) especificando en el mismo email el nombre de la persona. _¡Note que los descriptivos enviados directamente por el banco nos obligan, en la mayoría de los casos, a hacer de detectives para llegar al nombre de la persona!_
 3. **La inscripción no está concluída hasta que no reciba un email con la confirmación de la misma.**
@@ -30,4 +30,3 @@
 * **Devoluciones:** Una vez cerradas las inscripciones, no se hará devolución del monto pagado a no ser por una causa grave
 
 {% page-ref page="../casa-3-campanas/pagos.md" %}
-

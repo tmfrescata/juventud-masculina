@@ -6,7 +6,7 @@
 
 ## Secretaría e Inscripciones
 
-**Teléfono \(WhatsApp\)**
+**Teléfono**
 
 * María Francisca Bobenrieth \(cel. +56 9 9449 6997\)
 
@@ -14,7 +14,7 @@
 
 * 3campanas@padres-schoenstatt.cl
 
+
 ## Universitarios
 
 {% page-ref page="../universitarios/info.md" %}
-

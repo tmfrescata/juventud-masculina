@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Bienvenidos](README.md)
+* [Contactos](contactos.md)
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
 * [Formación](https://formacion.jmschoenstatt.cl/)
 
@@ -32,10 +33,8 @@
 
 ## Casa 3 Campanas
 
-* [Contactos](casa-3-campanas/contactos.md)
 * [Ubicación](casa-3-campanas/casa-3-campanas.md)
 * [Cuotas anuales](casa-3-campanas/cuotas-anuales.md)
 * [Pagos](casa-3-campanas/pagos.md)
 * [Renovación de la Casa](casa-3-campanas/renovacion-de-la-casa/README.md)
   * [Tablero de ideas](https://trello.com/b/vry1T8Ty)
-
