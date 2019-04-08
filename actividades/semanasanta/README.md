@@ -1,5 +1,9 @@
 # Retiro de Semana Santa 2019
 
+{% hint style="info" %}
+`Formulario online para mayores de edad`
+{% endhint %}
+
 * Jueves 18 a Domingo 21 de Abril de 2019
 * En el Colegio Mayor Padre José Kentenich \(Seminario de los Padres de Schoenstatt, Las Nalcas Norte 7678, Lo Cañas, La Florida\)
 * Retiro abierto destinado a Pioneros y Universitarios
