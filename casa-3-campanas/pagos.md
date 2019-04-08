@@ -2,7 +2,7 @@
 
 Preferimos pagos por transferencia bancaria.
 
-**La siguiente Cuenta está exclusivamente dedicada al uso institucional de la Juventud Masculina de Schoenstatt de Campanario.** Por motivos de orden burocrático está a nombre personal del Padre Tiago.
+**La siguiente Cuenta está exclusivamente dedicada al uso institucional de la Juventud Masculina de Schoenstatt de Campanario.** Por motivos de orden burocrático está actualmente a nombre personal del Padre Tiago.
 
 ## Cuenta Corriente
 
