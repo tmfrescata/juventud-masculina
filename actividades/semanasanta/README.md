@@ -15,9 +15,9 @@
   * Nadie dejará de participar nunca por motivos económicos!!! Por favor, hablar con el Padre Asesor
 * **Transporte:** El que necesite transporte o acompañamiento para llegar al CMPJK \(menores de edad\) consulte al Consejo de los Universitarios o al Asesor
 
-{% page-ref page="../universitarios/info.md" %}
+{% page-ref page="../../universitarios/info.md" %}
 
-{% page-ref page="../contactos.md" %}
+{% page-ref page="../../contactos.md" %}
 
 ## Inscripción
 
@@ -31,5 +31,5 @@
 
 * **Devoluciones:** Una vez cerradas las inscripciones, no se hará devolución del monto pagado a no ser por una causa grave
 
-{% page-ref page="../casa-3-campanas/pagos.md" %}
+{% page-ref page="../../casa-3-campanas/pagos.md" %}
 

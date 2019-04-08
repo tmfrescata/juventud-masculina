@@ -14,7 +14,8 @@
 
 ## Actividades
 
-* [Retiro de Semana Santa 2019](actividades/semanasanta.md)
+* [Retiro de Semana Santa 2019](actividades/semanasanta/README.md)
+  * [Ficha de inscripción \(menores\)](http://pentecostes.info/pioneros-retiross2019.pdf)
 
 ## Cruzados
 
