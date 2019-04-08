@@ -6,8 +6,6 @@
 
 ## Secretaría e Inscripciones
 
-**Teléfono**
-
 * María Francisca Bobenrieth \(cel. +56 9 9449 6997\)
 
 **Email**

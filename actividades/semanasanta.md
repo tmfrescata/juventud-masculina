@@ -17,6 +17,9 @@
 
 {% page-ref page="../universitarios/info.md" %}
 
+{% page-ref page="../contactos.md" %}
+
+
 ## Inscripción
 
 1. **Hasta el domingo 14 de Abril:**
