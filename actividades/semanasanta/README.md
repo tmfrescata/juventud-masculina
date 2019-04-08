@@ -1,7 +1,7 @@
 # Retiro de Semana Santa 2019
 
 {% hint style="info" %}
-`Formulario online para mayores de edad`
+[Formulario online para mayores de edad](https://forms.gle/LMj8WcTj11JGow4i7)
 {% endhint %}
 
 * Jueves 18 a Domingo 21 de Abril de 2019
@@ -36,4 +36,3 @@
 * **Devoluciones:** Una vez cerradas las inscripciones, no se hará devolución del monto pagado a no ser por una causa grave
 
 {% page-ref page="../../casa-3-campanas/pagos.md" %}
-
