@@ -18,7 +18,7 @@
 
 ## Cruzados
 
-* [Información](cruzados/info.md)
+* [Información Cruzados](cruzados/info.md)
 * [Campanario](cruzados/campanario/README.md)
   * [Ficha Inscripción Nuevos](http://pentecostes.info/inscripcion_cruzados_nuevos.pdf)
 * [Colina](cruzados/colina/README.md)
@@ -26,11 +26,11 @@
 
 ## Pioneros
 
-* [Información](pioneros/info.md)
+* [Información Pioneros](pioneros/info.md)
 
 ## Universitarios
 
-* [Información](universitarios/info.md)
+* [Información Universitarios](universitarios/info.md)
 
 ## Casa 3 Campanas
 
