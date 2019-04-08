@@ -19,7 +19,6 @@
 
 {% page-ref page="../contactos.md" %}
 
-
 ## Inscripción
 
 1. **Hasta el domingo 14 de Abril:**
@@ -33,3 +32,4 @@
 * **Devoluciones:** Una vez cerradas las inscripciones, no se hará devolución del monto pagado a no ser por una causa grave
 
 {% page-ref page="../casa-3-campanas/pagos.md" %}
+

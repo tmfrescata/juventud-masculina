@@ -12,7 +12,7 @@
 
 * 3campanas@padres-schoenstatt.cl
 
-
 ## Universitarios
 
-{% page-ref page="../universitarios/info.md" %}
+{% page-ref page="universitarios/info.md" %}
+

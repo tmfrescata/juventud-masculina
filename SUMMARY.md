@@ -1,7 +1,7 @@
 # Table of contents
 
+* [¡Bienvenidos!](README.md)
 * [3Campanas.cl](https://3campanas.cl)
-* [Bienvenidos](README.md)
 * [Contactos](contactos.md)
 * [Noticias JM](https://noticias.jmschoenstatt.cl)
 * [Formación](https://formacion.jmschoenstatt.cl/)
@@ -39,3 +39,4 @@
 * [Pagos](casa-3-campanas/pagos.md)
 * [Renovación de la Casa](casa-3-campanas/renovacion-de-la-casa/README.md)
   * [Tablero de ideas](https://trello.com/b/vry1T8Ty)
+

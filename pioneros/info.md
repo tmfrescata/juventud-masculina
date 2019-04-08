@@ -2,7 +2,7 @@
 description: Pioneros
 ---
 
-# Información
+# Información Pioneros
 
 ![](../.gitbook/assets/bandera-pioneros.png)
 

@@ -2,7 +2,7 @@
 description: Universitarios
 ---
 
-# Información
+# Información Universitarios
 
 ## Consejo de Rama
 
