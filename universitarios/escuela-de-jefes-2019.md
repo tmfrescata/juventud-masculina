@@ -22,6 +22,7 @@
 * Estar en 2º año de Universidad o más
 * Pertenecer a la Rama de Campanario y Colina
 * Escribir una carta de puño y letra dirigida al Consejo de la Rama exponiendo las razones por las cuáles se está interesado en participar
+  * Fecha límite para entrega de la carta: 
 
 ### Primer encuentro
 
