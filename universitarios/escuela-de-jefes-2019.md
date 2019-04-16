@@ -12,7 +12,7 @@
 
 ### Metodología
 
-* Encuentros mensuales de miércoles a sábado
+* Jornadas mensuales de miércoles a sábado
   * Comienza con la comida del miércoles
   * Culmina con la Eucaristía el sábado en la tarde
   * Alojamiento en la Casa de las 3 Campanas durante esos días
@@ -22,7 +22,12 @@
 * Estar en 2º año de Universidad o más
 * Pertenecer a la Rama de Campanario y Colina
 * Escribir una carta de puño y letra dirigida al Consejo de la Rama exponiendo las razones por las cuáles se está interesado en participar
-  * Fecha límite para entrega de la carta: 
 
-### Primer encuentro
+### Fechas
+
+* **Martes 30 de Abril** — Fecha límite para la entrega de la carta
+* **Miércoles 22 a sábado 25 de Mayo** — Primera jornada
+  * Las jornadas siguientes serán agendadas ahí
+
+
 
