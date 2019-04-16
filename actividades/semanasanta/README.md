@@ -4,7 +4,7 @@
 [Formulario online para mayores de edad](https://forms.gle/LMj8WcTj11JGow4i7)
 {% endhint %}
 
-* Jueves 18 a Domingo 21 de Abril de 2019
+* Jueves 18 a Sábado 20 de Abril de 2019
 * En el Colegio Mayor Padre José Kentenich \(Seminario de los Padres de Schoenstatt, Las Nalcas Norte 7678, Lo Cañas, La Florida\)
 * Retiro abierto destinado a Pioneros y Universitarios
   * Son bienvenidos todos los que todavía no participan en las Ramas más formalmente y que quieran conocerlas o solamente vivir la experiencia de retiro a título personal
@@ -36,8 +36,7 @@
 ## Atención
 
 {% hint style="warning" %}
-**Devoluciones:** Una vez cerradas las inscripciones, no se hará devolución del monto pagado a no ser por una causa grave
+**Devoluciones:** Una vez cerradas las inscripciones, no se hará devolución del monto pagado a no ser por una causa grave.
 {% endhint %}
 
 {% page-ref page="../../casa-3-campanas/pagos.md" %}
-
