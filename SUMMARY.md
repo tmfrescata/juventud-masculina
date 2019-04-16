@@ -20,7 +20,7 @@
 
 ## Cruzados
 
-* [Información Cruzados](cruzados/info.md)
+* [Información](cruzados/info.md)
 * [Campanario](cruzados/campanario/README.md)
   * [Ficha Inscripción Nuevos](http://pentecostes.info/inscripcion_cruzados_nuevos.pdf)
 * [Colina](cruzados/colina/README.md)
@@ -28,11 +28,11 @@
 
 ## Pioneros
 
-* [Información Pioneros](pioneros/info.md)
+* [Información](pioneros/info.md)
 
 ## Universitarios
 
-* [Información Universitarios](universitarios/info.md)
+* [Información](universitarios/info.md)
 * [Escuela de Jefes 2019](universitarios/escuela-de-jefes-2019.md)
 
 ## Casa 3 Campanas

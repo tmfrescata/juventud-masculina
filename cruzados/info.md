@@ -2,7 +2,7 @@
 description: Cruzados
 ---
 
-# Información Cruzados
+# Información
 
 ![](../.gitbook/assets/bandera-cruzados%20%281%29.png)
 
