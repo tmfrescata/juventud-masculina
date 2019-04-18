@@ -13,7 +13,7 @@
 ## Informaciones
 
 * **Inicio:** Comida a las 20:00 seguida de Misa de Jueves Santo en el CMPJK
-* **Conclusión:** Vigilia Pascual a las 20:00 seguida de comida festiva
+* **Conclusión:** Vigilia Pascual a las 19:00 seguida de comida festiva
   * Los familiares están cordialmente invitados a participar en la Vigilia y comida posterior
 * **Precio:** $ 18.000
   * Nadie dejará de participar nunca por motivos económicos!!! Por favor, hablar con el Padre Asesor
