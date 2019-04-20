@@ -22,6 +22,9 @@ description: Universitarios
   * Comienza con la comida del miércoles
   * Culmina con la Eucaristía el sábado en la tarde
   * Alojamiento en la Casa de las 3 Campanas durante esos días
+* Modalidad
+  * Expositiva, basada en lectura previa
+  * Trabajo grupal para llevar el contenido a la vivencia cotidiana
 
 ### Postulación – Requisitos
 
