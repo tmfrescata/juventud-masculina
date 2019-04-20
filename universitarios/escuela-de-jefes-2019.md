@@ -4,7 +4,7 @@ description: Universitarios
 
 # Escuela de Jefes 2019
 
-### Objetivos
+### Objetivo
 
 * 1\) Alianza de Amor
   * Profundizar en el Primer Hito de la Historia de Schoenstatt, su contexto histórico y significado
@@ -16,7 +16,9 @@ description: Universitarios
 
 ### Metodología
 
-* Jornadas mensuales de miércoles a sábado
+* Durante el año 2019
+* 6 Jornadas de miércoles a sábado 
+  * Periodicidad mensual \(aproximadamente\)
   * Comienza con la comida del miércoles
   * Culmina con la Eucaristía el sábado en la tarde
   * Alojamiento en la Casa de las 3 Campanas durante esos días
@@ -24,7 +26,11 @@ description: Universitarios
 ### Postulación – Requisitos
 
 * Estar en 2º año de Universidad o más
-* Pertenecer a la Rama de Campanario y Colina
+* Pertenecer a la Rama
+  * Campanario y Colina
+  * Bellavista
+  * Providencia
+  * Buin
 * Escribir una carta de puño y letra dirigida al Consejo de la Rama exponiendo las razones por las cuáles se está interesado en participar
 
 ### Fechas
