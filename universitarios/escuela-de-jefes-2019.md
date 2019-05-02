@@ -4,13 +4,13 @@ description: Universitarios
 
 # Escuela de Jefes 2019
 
-### Fechas
+## Fechas
 
 * **Martes 7 de Mayo** — Fecha límite para la entrega de la carta
 * **Miércoles 22 a sábado 25 de Mayo** — Primera jornada
   * Las jornadas siguientes serán agendadas ahí
 
-### Objetivo
+## Objetivo
 
 * 1\) Alianza de Amor
   * Profundizar en el Primer Hito de la Historia de Schoenstatt, su contexto histórico y significado
@@ -20,7 +20,7 @@ description: Universitarios
 * 3\) Aspirar a la santidad en comunidad
   * Profundizar en el espíritu de la Juventud Masculina y comprometerse con la Rama
 
-### Metodología
+## Metodología
 
 * Durante el año 2019
 * 6 Jornadas de miércoles a sábado
@@ -32,7 +32,7 @@ description: Universitarios
   * Expositiva, basada en lectura previa
   * Trabajo grupal para llevar el contenido a la vivencia cotidiana
 
-### Postulación – Requisitos
+## Postulación – Requisitos
 
 * Estar en 2º año de Universidad o más
 * Pertenecer a la Rama
@@ -41,3 +41,4 @@ description: Universitarios
   * Providencia
   * Buin
 * Escribir una carta de puño y letra dirigida al Consejo de la Rama exponiendo las razones por las cuáles se está interesado en participar
+

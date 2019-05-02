@@ -12,12 +12,6 @@
 * [Cruzados de Campanario](https://landing.mailerlite.com/webforms/landing/s1e3a6)
 * [Cruzados de Colina](https://landing.mailerlite.com/webforms/landing/c4p0i3)
 
-## Actividades
-
-* [Retiro de Semana Santa 2019](actividades/semanasanta/README.md)
-  * [Formulario online \(mayores de edad\)](https://forms.gle/LMj8WcTj11JGow4i7)
-  * [Ficha de inscripción \(menores de edad\)](http://pentecostes.info/pioneros-retiross2019.pdf)
-
 ## Cruzados
 
 * [Información](cruzados/info.md)
