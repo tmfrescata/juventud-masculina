@@ -4,6 +4,12 @@ description: Universitarios
 
 # Escuela de Jefes 2019
 
+### Fechas
+
+* **Martes 7 de Mayo** — Fecha límite para la entrega de la carta
+* **Miércoles 22 a sábado 25 de Mayo** — Primera jornada
+  * Las jornadas siguientes serán agendadas ahí
+
 ### Objetivo
 
 * 1\) Alianza de Amor
@@ -35,9 +41,3 @@ description: Universitarios
   * Providencia
   * Buin
 * Escribir una carta de puño y letra dirigida al Consejo de la Rama exponiendo las razones por las cuáles se está interesado en participar
-
-### Fechas
-
-* **Martes 7 de Mayo** — Fecha límite para la entrega de la carta
-* **Miércoles 22 a sábado 25 de Mayo** — Primera jornada
-  * Las jornadas siguientes serán agendadas ahí
