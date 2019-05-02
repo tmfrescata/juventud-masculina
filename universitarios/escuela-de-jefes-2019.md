@@ -17,7 +17,7 @@ description: Universitarios
 ### Metodología
 
 * Durante el año 2019
-* 6 Jornadas de miércoles a sábado 
+* 6 Jornadas de miércoles a sábado
   * Periodicidad mensual \(aproximadamente\)
   * Comienza con la comida del miércoles
   * Culmina con la Eucaristía el sábado en la tarde
@@ -38,9 +38,6 @@ description: Universitarios
 
 ### Fechas
 
-* **Martes 30 de Abril** — Fecha límite para la entrega de la carta
+* **Martes 7 de Mayo** — Fecha límite para la entrega de la carta
 * **Miércoles 22 a sábado 25 de Mayo** — Primera jornada
   * Las jornadas siguientes serán agendadas ahí
-
-
-
