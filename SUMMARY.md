@@ -23,6 +23,7 @@
 ## Pioneros
 
 * [Información](pioneros/info.md)
+* [Peregrinación](pioneros/peregrinacion.md)
 
 ## Universitarios
 
