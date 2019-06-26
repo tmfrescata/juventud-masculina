@@ -23,7 +23,7 @@
 ## Pioneros
 
 * [Información](pioneros/info.md)
-* [Peregrinación](pioneros/peregrinacion.md)
+* [Peregrinación a Andacollo](pioneros/peregrinacion.md)
 
 ## Universitarios
 

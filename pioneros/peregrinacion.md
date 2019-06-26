@@ -1,8 +1,12 @@
+---
+description: La Serena
+---
+
 # Peregrinación a Andacollo
 
 {% page-ref page="../casa-3-campanas/pagos.md" %}
 
-{% page-ref page="../casa-3-campanas/contactos.md" %}
+{% page-ref page="../contactos.md" %}
 
 * Viernes 12 a Martes 16 de Julio de 2019
 * Inscripciones hasta el **lunes 8 de julio**
@@ -24,3 +28,4 @@
 ## Atención
 
 * **Devoluciones:** Una vez cerradas las inscripciones, no se hará devolución del monto pagado a no ser por una causa grave
+
