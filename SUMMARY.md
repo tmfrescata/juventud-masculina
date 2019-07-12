@@ -3,7 +3,7 @@
 * [¡Bienvenidos!](README.md)
 * [3Campanas.cl](https://3campanas.cl)
 * [Contactos](contactos.md)
-* [Noticias JM](https://noticias.jmschoenstatt.cl)
+* [Noticias JM](https://noticias.3campanas.cl)
 * [Formación](https://formacion.jmschoenstatt.cl/)
 
 ## Subscribir Email Noticias
