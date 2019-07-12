@@ -1,11 +1,5 @@
 # Material a llevar
 
-
-
-## Material a llevar
-
-#### Lista de Material para la peregrinación
-
 **Muy importante**
 
 * Llevar colación para el almuerzo y merienda del viernes
