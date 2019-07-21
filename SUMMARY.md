@@ -23,8 +23,6 @@
 ## Pioneros
 
 * [Información](pioneros/info.md)
-* [Peregrinación a Andacollo](pioneros/peregrinacion/README.md)
-  * [Material a llevar](pioneros/peregrinacion/material-a-llevar.md)
 
 ## Universitarios
 
