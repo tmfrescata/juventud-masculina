@@ -4,7 +4,7 @@
 * [3Campanas.cl](https://3campanas.cl)
 * [Contactos](contactos.md)
 * [Noticias JM](https://noticias.3campanas.cl)
-* [Formación](https://formacion.jmschoenstatt.cl/)
+* [Formación](https://formacion.3campanas.cl/)
 
 ## Subscribir Email Noticias
 
