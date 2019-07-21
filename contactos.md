@@ -1,12 +1,12 @@
 # Contactos
 
-## Asesor
+## Asesores
 
 * Padre Tiago Frescata \(cel. +56 9 3203 6374\)
+* Diácono Cristián Sánchez \(cel. +56 9 8438 8293\)
+* Diácono Gonzalo Villaseca \(cel. +56 9 5662 3995\)
 
 ## Secretaría e Inscripciones
-
-* María Francisca Bobenrieth \(cel. +56 9 9449 6997\)
 
 **Email**
 
