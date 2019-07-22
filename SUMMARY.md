@@ -27,7 +27,6 @@
 ## Universitarios
 
 * [Información](universitarios/info.md)
-* [Escuela de Jefes 2019](universitarios/escuela-de-jefes-2019.md)
 
 ## Casa 3 Campanas
 
