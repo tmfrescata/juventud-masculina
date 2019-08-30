@@ -7,7 +7,5 @@
 * Las reuniones son durante el período de clases \(no en vacaciones\)
   * No se cancelan las reuniones. Excepciones a esta regla serán debidamente comunicadas \(por ejemplo, fín de semana largo\)
 
-{% file src="../../.gitbook/assets/inscripcion-cruzados-2019.pdf" %}
-
 
 

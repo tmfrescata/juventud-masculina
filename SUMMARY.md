@@ -17,7 +17,7 @@
 
 * [Información](cruzados/info.md)
 * [Campanario](cruzados/campanario/README.md)
-  * [Ficha Inscripción Nuevos](http://pentecostes.info/inscripcion_cruzados_nuevos.pdf)
+  * [Ficha Inscripción Nuevos](https://www.3campanas.cl/download/inscripcion-cruzados-2019.pdf)
 * [Colina](cruzados/colina/README.md)
   * [Carta a los papás](cruzados/colina/carta-a-los-papas.md)
 
