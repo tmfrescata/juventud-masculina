@@ -3,6 +3,7 @@
 * [¡Bienvenidos!](README.md)
 * [3Campanas.cl](https://3campanas.cl)
 * [Contactos](contactos.md)
+* [Ubicación](casa-3-campanas.md)
 * [Noticias JM](https://noticias.3campanas.cl)
 * [Formación](https://formacion.3campanas.cl/)
 
@@ -28,9 +29,8 @@
 
 * [Información](universitarios/info.md)
 
-## Casa 3 Campanas
+## Secretaría
 
-* [Ubicación](casa-3-campanas/casa-3-campanas.md)
-* [Cuotas anuales](casa-3-campanas/cuotas-anuales.md)
-* [Pagos](casa-3-campanas/pagos.md)
+* [Pagos](secretaria/pagos.md)
+* [Cuotas anuales](secretaria/cuotas-anuales.md)
 
