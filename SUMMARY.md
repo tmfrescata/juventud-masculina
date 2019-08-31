@@ -15,6 +15,8 @@
 
 ## Cruzados
 
+* [Excursión al Cerro Manquehue](cruzados/excursion-al-cerro-manquehue/README.md)
+  * [Ficha inscripción Excursión](https://www.3campanas.cl/download/inscripcion-cz-manquehue.pdf)
 * [Información](cruzados/info.md)
 * [Campanario](cruzados/campanario/README.md)
   * [Ficha Inscripción Nuevos](https://www.3campanas.cl/download/inscripcion-cruzados-2019.pdf)
