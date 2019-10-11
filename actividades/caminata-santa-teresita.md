@@ -11,14 +11,11 @@ description: Peregrinación a Auco — Santa Teresita de los Andes
 
 ## ¿Qué es?
 
-La Peregrinación Juvenil que organiza la Iglesia de Santiago, es una actividad religiosa que convoca desde hace 29 años a miles de jóvenes de todo el país.
-La caminata se realiza a lo largo de 27 Km desde la localidad de Casas de Chacabuco hasta el Santuario de Teresita; usando la cuesta de Chacabuco como trayecto.
+La Peregrinación Juvenil que organiza la Iglesia de Santiago, es una actividad religiosa que convoca desde hace 29 años a miles de jóvenes de todo el país. La caminata se realiza a lo largo de 27 Km desde la localidad de Casas de Chacabuco hasta el Santuario de Teresita; usando la cuesta de Chacabuco como trayecto.
 
-A lo largo del camino, instituciones, grupos de jóvenes, universidades, instalan estaciones de animación para acompañar la ruta de los peregrinos.
-Al finalizar se celebra una gran Misa en la explanada del santuario, presidida por el Arzobispo de Santiago, concelebrada por el Obispo de San Felipe y el Rector del Santuario, junto a otros sacerdotes y comunidades presentes.
+A lo largo del camino, instituciones, grupos de jóvenes, universidades, instalan estaciones de animación para acompañar la ruta de los peregrinos. Al finalizar se celebra una gran Misa en la explanada del santuario, presidida por el Arzobispo de Santiago, concelebrada por el Obispo de San Felipe y el Rector del Santuario, junto a otros sacerdotes y comunidades presentes.
 
 Desde sus inicios la Juventud de Schoenstatt de Campanario ha participado, casi ininterrumpidamente, en esta caminata, donde además de ofrecer a la Mater cada uno de nuestros pasos, es una forma muy concreta de dar testimonio alegre de nuestra fe.
-
 
 ## Informaciones
 
@@ -31,22 +28,24 @@ Desde sus inicios la Juventud de Schoenstatt de Campanario ha participado, casi 
 
 ## Inscripción
 
-Los menores de 18 años deben presentar la autorización firmada por uno de sus apoderados indicando su consentimiento para participar en esta actividad.
+* Los menores de 18 años deben presentar la **autorización firmada** por uno de sus apoderados indicando su consentimiento para participar en esta actividad.
 
-Los $8.500 pesos se deben pagar hasta **el miércoles 16 de octubre** en la Secretaría del Santuario de Campanario o por transferencia a la cuenta:
+{% file src="../.gitbook/assets/autorizacion\_de\_menores\_edad.pdf" caption="Autorización Menores Edad" %}
 
-Elizabeth Zambrano
-Banco Santander
-Cta. Cte 61516182
-Rut: 21626513-0
+* Los $8.500 pesos se deben pagar hasta **el miércoles 16 de octubre** en la Secretaría del Santuario de Campanario o por transferencia a la cuenta:
+
+{% hint style="info" %}
+Elizabeth Zambrano  
+Banco Santander  
+Cta. Cte 61516182  
+Rut: 21626513-0  
 Email: lissimta@gmail.com
+{% endhint %}
 
-Los datos necesarios para la inscripción son los siguientes:
-Nombre / Rut / edad / Teléfono / Teléfono de emergencia
-
-**Importante:**
-Enviar, cuanto antes, estos datos de inscripción por whatsapp al: +56987313208
+* Los datos necesarios para la inscripción son los siguientes: Nombre / Rut / edad / Teléfono / Teléfono de emergencia
+* **Importante:** Enviar, cuanto antes, estos datos de inscripción por whatsapp al: +56987313208
 
 ## Atención
 
 * **Devoluciones:** Una vez cerradas las inscripciones, no se hará devolución del monto pagado a no ser por una causa grave
+
