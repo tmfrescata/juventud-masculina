@@ -9,8 +9,6 @@
 
 ## Actividades
 
-* [Caminata Santa Teresita](actividades/caminata-santa-teresita.md)
-
 ## Subscribir Email Noticias
 
 * [Todas las Noticias](https://landing.mailerlite.com/webforms/landing/i5x2f5)
