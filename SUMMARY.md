@@ -7,8 +7,6 @@
 * [Noticias JM](https://noticias.3campanas.cl)
 * [Formación](https://formacion.3campanas.cl/)
 
-## Actividades
-
 ## Subscribir Email Noticias
 
 * [Todas las Noticias](https://landing.mailerlite.com/webforms/landing/i5x2f5)
